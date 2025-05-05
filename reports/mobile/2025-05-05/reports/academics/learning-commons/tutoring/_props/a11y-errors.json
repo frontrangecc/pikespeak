@@ -1,0 +1,82 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,P,0,STRONG,1,A",
+            "selector": "div.container > p > strong > a",
+            "boundingRect": {
+              "top": 202,
+              "bottom": 238,
+              "left": 35,
+              "right": 392,
+              "width": 357,
+              "height": 36
+            },
+            "snippet": "<a href=\"https://www.ppcc.edu/academics/learning-commons/tutoring/\">",
+            "nodeLabel": "the production server",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.76 (foreground color: #2fa4e7, background color: #ffffff, font size: 10.5pt (14px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-BODY",
+                  "path": "1,HTML,1,BODY",
+                  "selector": "body#properties",
+                  "boundingRect": {
+                    "top": 20,
+                    "bottom": 485,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 465
+                  },
+                  "snippet": "<body id=\"properties\">",
+                  "nodeLabel": "body#properties"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

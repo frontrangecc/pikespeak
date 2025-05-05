@@ -1,0 +1,235 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more about frame titles](https://dequeuniversity.com/rules/axe/4.10/frame-title).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-IFRAME",
+            "path": "1,HTML,1,BODY,8,DIV,1,DIV,0,DIV,2,DIV,0,IFRAME",
+            "selector": "div.container > div.row > div.col-12 > iframe",
+            "boundingRect": {
+              "top": 3028,
+              "bottom": 3508,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 480
+            },
+            "snippet": "<iframe width=\"640px\" height=\"480px\" src=\"https://forms.office.com/Pages/ResponsePage.aspx?id=6rEiKgp4PUqxt85fmsRTaA…\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" style=\"border: none; max-width:100%; max-height:100vh\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" msallowfullscreen=\"\">",
+            "nodeLabel": "div.container > div.row > div.col-12 > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-IFRAME",
+            "path": "1,HTML,1,BODY,32,IFRAME",
+            "selector": "body > iframe",
+            "boundingRect": {
+              "top": 5526,
+              "bottom": 5526,
+              "left": 0,
+              "right": 0,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<iframe src=\"javascript:false\" style=\"width: 0px; height: 0px; border: 0px;\">",
+            "nodeLabel": "body > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-IFRAME",
+            "path": "1,HTML,1,BODY,37,IFRAME",
+            "selector": "body > iframe",
+            "boundingRect": {
+              "top": 5526,
+              "bottom": 5526,
+              "left": 0,
+              "right": 0,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<iframe src=\"javascript:false\" style=\"width: 0px; height: 0px; border: 0px;\">",
+            "nodeLabel": "body > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag412",
+          "section508",
+          "section508.22.i",
+          "TTv5",
+          "TT12.d",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ]
+      }
+    },
+    "errorCount": 3
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn how to make links accessible](https://dequeuniversity.com/rules/axe/4.10/link-name).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-4-A",
+            "path": "1,HTML,1,BODY,10,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,0,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 4194,
+              "bottom": 4219,
+              "left": 32,
+              "right": 68,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.facebook.com/PikesPeakedu\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-5-A",
+            "path": "1,HTML,1,BODY,10,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,1,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 4194,
+              "bottom": 4219,
+              "left": 68,
+              "right": 104,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.instagram.com/pikespeakedu/\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-6-A",
+            "path": "1,HTML,1,BODY,10,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,2,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 4194,
+              "bottom": 4219,
+              "left": 104,
+              "right": 140,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.linkedin.com/school/pikes-peak-state-college/\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-7-A",
+            "path": "1,HTML,1,BODY,10,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,3,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 4194,
+              "bottom": 4219,
+              "left": 140,
+              "right": 176,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.youtube.com/user/pikespeakcc\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-8-A",
+            "path": "1,HTML,1,BODY,10,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,4,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 4194,
+              "bottom": 4219,
+              "left": 176,
+              "right": 212,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://x.com/pikespeakedu\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag244",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.2.4.4",
+          "EN-9.4.1.2",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 5
+  }
+]

@@ -1,0 +1,1594 @@
+[
+  {
+    "path": "/",
+    "score": 0.72,
+    "performance": 0.32,
+    "accessibility": 0.88,
+    "best-practices": 0.75,
+    "seo": 0.92
+  },
+  {
+    "path": "/404.php",
+    "score": 0.77,
+    "performance": 0.42,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/50th-anniversary/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/50th-anniversary/Memories.php",
+    "score": 0.78,
+    "performance": 0.42,
+    "accessibility": 0.93,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/50th-anniversary/oral-histories.php",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/50th-anniversary/ppcc-videos.php",
+    "score": 0.78,
+    "performance": 0.46,
+    "accessibility": 0.92,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/50th-anniversary/timeline.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/50th-anniversary/welcome-safeway-u.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/accreditations.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/assessment/index.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/covid/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/covid/index.php",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/equity-inclusion/hispanic-serving-institute.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/equity-inclusion/index.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/equity-inclusion/latino-alliance.php",
+    "score": 0.8,
+    "performance": 0.52,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/index.php",
+    "score": 0.82,
+    "performance": 0.61,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/institutional-effectiveness/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/institutional-effectiveness/IE-facts.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/institutional-effectiveness/index.php",
+    "score": 0.81,
+    "performance": 0.57,
+    "accessibility": 0.86,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/institutional-effectiveness/research.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/news/articles/Amazon-Offers-Employees-Free-Tuition-at-PPCC%20.php",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 0.85
+  },
+  {
+    "path": "/about/news/articles/cccs-visits-ppsc-on-listening-tour-2024.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/articles/migrated-articles/constructing-solution-growth-challenge.php",
+    "score": 0.79,
+    "performance": 0.51,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/articles/migrated-articles/ppcc-connects-people-auto-industry-jobs-and-cool-cars.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/articles/migrated-articles/quad-innovation-alliance-builds-legacy-its-executive-director-has-forged.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/articles/ppsc-announces-first-nations-promise-to-cover-costs-for-native-students.php",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/articles/ppsc-hosts-latin-culture-fashion-show.php",
+    "score": 0.81,
+    "performance": 0.57,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/articles/ppsc-presents-its-first-interdisciplinary-musical-in-20-years-with-the-25th-annual-putnam-county-spelling-bee.php",
+    "score": 0.8,
+    "performance": 0.52,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/news/index-100238.php",
+    "score": 0.78,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/news/index.php",
+    "score": 0.78,
+    "performance": 0.54,
+    "accessibility": 0.85,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/office-president/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/office-president/index.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/presidential-communication/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/office-president/presidential-communication/index.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/presidential-communication/president-videos.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/presidential-communication/town-halls.php",
+    "score": 0.78,
+    "performance": 0.46,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/strategic-plan/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/about/office-president/strategic-plan/destination-2022.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/strategic-plan/downtown-design.php",
+    "score": 0.8,
+    "performance": 0.51,
+    "accessibility": 0.9,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/strategic-plan/facilities-master-plan.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/office-president/strategic-plan/index.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/vpss/index.php",
+    "score": 0.81,
+    "performance": 0.51,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-calendar.php",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/academic-divisions/arts-humanities-social-sciences/awards-and-accolades.php",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/academic-divisions/arts-humanities-social-sciences/index.php",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/arts-humanities-social-sciences/math-pathways.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/arts-humanities-social-sciences/tactivities.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/business-technology-public-services/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/academic-divisions/business-technology-public-services/index.php",
+    "score": 0.79,
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/business-technology-public-services/instructor-resources/bps-how-to-change-a-grade.php",
+    "score": 0.8,
+    "performance": 0.5,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/business-technology-public-services/white-danielle.php",
+    "score": 0.81,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/academic-divisions/health-sciences/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/academic-divisions/health-sciences/hs-clinical-information.php",
+    "score": 0.8,
+    "performance": 0.52,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/health-sciences/index.php",
+    "score": 0.81,
+    "performance": 0.57,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/health-sciences/ppcc-simulation.php",
+    "score": 0.81,
+    "performance": 0.59,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/index.php",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/academic-divisions/science-engineering-math/Faculty_and_Staff.php",
+    "score": 0.74,
+    "performance": 0.58,
+    "accessibility": 0.89,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/academic-divisions/science-engineering-math/index.php",
+    "score": 0.79,
+    "performance": 0.51,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/academic-divisions/science-engineering-math/nps-staff-profiles/jordan-burks.php",
+    "score": 0.76,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/academics/academic-divisions/technical-professional-studies/index.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/advancing-academic-achievement/faculty.php",
+    "score": 0.8,
+    "performance": 0.59,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/advancing-academic-achievement/index.php",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/catalog-schedule/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/catalog-schedule/index.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/CETL/cetl-programs.php",
+    "score": 0.81,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/CETL/index.php",
+    "score": 0.78,
+    "performance": 0.47,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/CETL/professional-development-week.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/CETL/resources-cetl.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/coaching/cosi-coaching/cosi-finish-what-you-started-scholarship-program.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/coaching/cosi-coaching/cosi-team.php",
+    "score": 0.81,
+    "performance": 0.58,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/coaching/cosi-coaching/index.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/coaching/index.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/cyber-defense-center/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/cyber-defense-center/index.php",
+    "score": 0.78,
+    "performance": 0.52,
+    "accessibility": 0.93,
+    "best-practices": 0.75,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/cyber-defense-center/resources.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/elearning/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/elearning/elearning-faq.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/elearning/elearning-resources/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/elearning/index.php",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/elearning/online-bachelor-associate-degrees-certificates.php",
+    "score": 0.8,
+    "performance": 0.53,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/elearning/program-licensure.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/high-impact-learning/CIE.php",
+    "score": 0.81,
+    "performance": 0.58,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/high-impact-learning/dgl.php",
+    "score": 0.81,
+    "performance": 0.58,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/high-impact-learning/high-impact-learning.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/high-school-programs/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/high-school-programs/hsp-resources/information-for-counselors.php",
+    "score": 0.81,
+    "performance": 0.57,
+    "accessibility": 0.86,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/index.php",
+    "score": 0.82,
+    "performance": 0.59,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/instructional-services/faculty-resources/curriculum-committee.php",
+    "score": 0.82,
+    "performance": 0.61,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/faculty-resources/department-chair-guide.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/faculty-resources/educational-procedures.php",
+    "score": 0.81,
+    "performance": 0.59,
+    "accessibility": 0.85,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/faculty-resources/index.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/faculty-resources/instructional-calendar.php",
+    "score": 0.8,
+    "performance": 0.54,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/index.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/syllabus/index.php",
+    "score": 0.8,
+    "performance": 0.5,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/instructional-services/syllabus/institutional-syllabus.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/learning-commons/index.php",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/learning-commons/library/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/learning-commons/library/faculty_support.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/library/index.php",
+    "score": 0.78,
+    "performance": 0.51,
+    "accessibility": 0.85,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/library/library-services.php",
+    "score": 0.8,
+    "performance": 0.51,
+    "accessibility": 0.93,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_resources/esl-resources.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_resources/fellows.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_resources/frequently-asked-questions.php",
+    "score": 0.79,
+    "performance": 0.47,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_resources/index.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_resources/placement-test-preparation-resources.php",
+    "score": 0.79,
+    "performance": 0.5,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/_resources/writing-resources.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/computer-lab.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/index.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/online-writing-lab.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/schedules.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/learning-commons/tutoring/want-to-be-a-tutor.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/studio-west/art-gallery.php",
+    "score": 0.81,
+    "performance": 0.57,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/studio-west/index.php",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/studio-west/sw-calendar.php",
+    "score": 0.76,
+    "performance": 0.41,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/weekend-college.php",
+    "score": 0.77,
+    "performance": 0.48,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/workforce-development/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/academics/workforce-development/careerpathways.php",
+    "score": 0.81,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/workforce-development/employee-training.php",
+    "score": 0.81,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/academics/workforce-development/index.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/behavioral-intervention-team/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/behavioral-intervention-team/index.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/campus-police/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/campus-police/clery-act-information.php",
+    "score": 0.79,
+    "performance": 0.5,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/campus-police/forms.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/campus-police/index.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/campus-police/parking.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/campus-police/security-reports.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/construction-updates/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/construction-updates/index.php",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 0.85
+  },
+  {
+    "path": "/administration-operations/copy-center.php",
+    "score": 0.81,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/digital_accessibility.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/accessibility-at-ppsc/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/accessibility-at-ppsc/index.php",
+    "score": 0.82,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/DFSCA.php",
+    "score": 0.8,
+    "performance": 0.54,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/index.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/privacy-policy.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/requests-of-records.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/right-to-know.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/disclaimers-legal-notices/student-bill-rights.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/emergency-management/index.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/emergency-management/notifications.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/emergency-management/safety-tips.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/emergency-management/weather-closures.php",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/facilities/capitalprojects.php",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/administration-operations/facilities/compliance.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/facilities/environment.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/facilities/index.php",
+    "score": 0.82,
+    "performance": 0.6,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/form-search.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/archived-pages/alyssa-katherine-mason.php",
+    "score": 0.81,
+    "performance": 0.58,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/archived-pages/henry-trujillo.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/archived-pages/honorarium.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/archived-pages/samantha-hall.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/cosi-scholarship.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/golden-gala.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/how-give.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/index.php",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.86,
+    "best-practices": 0.75,
+    "seo": 0.92
+  },
+  {
+    "path": "/administration-operations/foundation/kane-scholarship.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/scholarship-celebration.php",
+    "score": 0.81,
+    "performance": 0.51,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/foundation/writing-a-thank-you-letter.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/confidential-resources.php",
+    "score": 0.82,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/index.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/laws-policies-procedures/civil-rights-investigation-process.php",
+    "score": 0.8,
+    "performance": 0.59,
+    "accessibility": 0.87,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/laws-policies-procedures/definitions.php",
+    "score": 0.8,
+    "performance": 0.52,
+    "accessibility": 0.9,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/laws-policies-procedures/index.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/laws-policies-procedures/title-ix-investigation.php",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.87,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/pregnancy-accommodations.php",
+    "score": 0.8,
+    "performance": 0.48,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/civil-rights-sexual-misconduct/victims-sexual-assault.php",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.9,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/employee-resources.php",
+    "score": 0.81,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/employment/careers.php",
+    "score": 0.78,
+    "performance": 0.46,
+    "accessibility": 0.92,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/employment/employee-tuition-assistance-application.php",
+    "score": 0.81,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/employment/employment-verifications.php",
+    "score": 0.81,
+    "performance": 0.51,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/employment/index.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/human-resource-services/index.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/index.php",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/l/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/l/designated-smoking-areas.php",
+    "score": 0.82,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/marketing/brand/Department%20Logos.php",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.85,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/brand/self-service-design/adobe-express-faq.php",
+    "score": 0.8,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/brand/self-service-design/index.php",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/administration-operations/marketing/downloads-assets/email-signature.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/downloads-assets/student-profile-and-fast-facts.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/index.php",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/marketing-team/alex-cone.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/marketing-team/dawn-gendron.php",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/marketing-team/index.php",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.89,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/administration-operations/marketing/marketing-team/radcliffe-matt.php",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/ppsc-rebrand.php",
+    "score": 0.81,
+    "performance": 0.58,
+    "accessibility": 0.87,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/requests/_props.html",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 0.91
+  },
+  {
+    "path": "/administration-operations/marketing/requests/college-seal.php",
+    "score": 0.83,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/requests/index.php",
+    "score": 0.83,
+    "performance": 0.59,
+    "accessibility": 0.93,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/requests/marketing-project-request.php",
+    "score": 0.81,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/administration-operations/marketing/requests/partnership-request.php",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 0.79,
+    "seo": 1
+  }
+]
