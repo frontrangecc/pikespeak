@@ -1,0 +1,368 @@
+[
+  {
+    "id": "button-name",
+    "title": "Buttons do not have an accessible name",
+    "description": "When a button doesn't have an accessible name, screen readers announce it as \"button\", making it unusable for users who rely on screen readers. [Learn how to make buttons more accessible](https://dequeuniversity.com/rules/axe/4.10/button-name).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-BUTTON",
+            "path": "1,HTML,1,BODY,5,DIV,1,NAV,0,DIV,3,DIV,1,DIV,0,FORM,2,BUTTON",
+            "selector": "div#topNavMobile > div.navbar-nav > form.form-inline > button.btn",
+            "boundingRect": {
+              "top": 8,
+              "bottom": 49,
+              "left": 812,
+              "right": 834,
+              "width": 22,
+              "height": 41
+            },
+            "snippet": "<button class=\"btn yellow-h\" type=\"submit\">",
+            "nodeLabel": "div#topNavMobile > div.navbar-nav > form.form-inline > button.btn",
+            "explanation": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more about frame titles](https://dequeuniversity.com/rules/axe/4.10/frame-title).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-IFRAME",
+            "path": "1,HTML,1,BODY,31,IFRAME",
+            "selector": "body > iframe",
+            "boundingRect": {
+              "top": 2768,
+              "bottom": 2768,
+              "left": 0,
+              "right": 0,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<iframe src=\"javascript:false\" style=\"width: 0px; height: 0px; border: 0px;\">",
+            "nodeLabel": "body > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-IFRAME",
+            "path": "1,HTML,1,BODY,36,IFRAME",
+            "selector": "body > iframe",
+            "boundingRect": {
+              "top": 2768,
+              "bottom": 2768,
+              "left": 0,
+              "right": 0,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<iframe src=\"javascript:false\" style=\"width: 0px; height: 0px; border: 0px;\">",
+            "nodeLabel": "body > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag412",
+          "section508",
+          "section508.22.i",
+          "TTv5",
+          "TT12.d",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn how to make links accessible](https://dequeuniversity.com/rules/axe/4.10/link-name).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-4-A",
+            "path": "1,HTML,1,BODY,9,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,0,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 2411,
+              "bottom": 2436,
+              "left": 117,
+              "right": 153,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.facebook.com/PikesPeakedu\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-5-A",
+            "path": "1,HTML,1,BODY,9,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,1,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 2411,
+              "bottom": 2436,
+              "left": 153,
+              "right": 189,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.instagram.com/pikespeakedu/\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-6-A",
+            "path": "1,HTML,1,BODY,9,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,2,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 2411,
+              "bottom": 2436,
+              "left": 189,
+              "right": 225,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.linkedin.com/school/pikes-peak-state-college/\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-7-A",
+            "path": "1,HTML,1,BODY,9,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,3,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 2411,
+              "bottom": 2436,
+              "left": 225,
+              "right": 261,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://www.youtube.com/user/pikespeakcc\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-8-A",
+            "path": "1,HTML,1,BODY,9,FOOTER,1,DIV,1,DIV,0,DIV,2,DIV,4,A",
+            "selector": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "boundingRect": {
+              "top": 2411,
+              "bottom": 2436,
+              "left": 261,
+              "right": 297,
+              "width": 36,
+              "height": 25
+            },
+            "snippet": "<a href=\"https://x.com/pikespeakedu\" class=\"facebook\">",
+            "nodeLabel": "div.row > div.col-12 > div.d-flex > a.facebook",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag244",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.2.4.4",
+          "EN-9.4.1.2",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 5
+  },
+  {
+    "id": "target-size",
+    "title": "Touch targets do not have sufficient size or spacing.",
+    "description": "Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets. [Learn more about touch targets](https://dequeuniversity.com/rules/axe/4.10/target-size).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-BUTTON",
+            "path": "1,HTML,1,BODY,5,DIV,1,NAV,0,DIV,3,DIV,1,DIV,0,FORM,2,BUTTON",
+            "selector": "div#topNavMobile > div.navbar-nav > form.form-inline > button.btn",
+            "boundingRect": {
+              "top": 8,
+              "bottom": 49,
+              "left": 812,
+              "right": 834,
+              "width": 22,
+              "height": 41
+            },
+            "snippet": "<button class=\"btn yellow-h\" type=\"submit\">",
+            "nodeLabel": "div#topNavMobile > div.navbar-nav > form.form-inline > button.btn",
+            "explanation": "Fix any of the following:\n  Target has insufficient size (22px by 41px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-9-INPUT",
+                  "path": "1,HTML,1,BODY,5,DIV,1,NAV,0,DIV,3,DIV,1,DIV,0,FORM,1,INPUT",
+                  "selector": "div#topNavMobile > div.navbar-nav > form.form-inline > input#search",
+                  "boundingRect": {
+                    "top": 17,
+                    "bottom": 41,
+                    "left": 622,
+                    "right": 812,
+                    "width": 190,
+                    "height": 24
+                  },
+                  "snippet": "<input id=\"search\" class=\"form-control\" type=\"search\" name=\"q\" placeholder=\"Search\" aria-label=\"Search\">",
+                  "nodeLabel": "Search"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-10-A",
+                  "path": "1,HTML,1,BODY,5,DIV,1,NAV,0,DIV,3,DIV,1,DIV,1,A",
+                  "selector": "div.container-fluid > div#topNavMobile > div.navbar-nav > a.nav-link",
+                  "boundingRect": {
+                    "top": 8,
+                    "bottom": 49,
+                    "left": 834,
+                    "right": 989,
+                    "width": 155,
+                    "height": 41
+                  },
+                  "snippet": "<a class=\"nav-link\" href=\"/admissions/espanol/index.php\">",
+                  "nodeLabel": "SITIO EN ESPAÑOL"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.sensory-and-visual-cues",
+          "wcag22aa",
+          "wcag258"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
